@@ -11,8 +11,8 @@ return (
             </div>
 
             <h1 className='text-dark text-5xl'>Problem Solving</h1>
-            <div className='h-8/10 w-full  flex items-center justify-center gap-10  flex-col'>
-                <img src="/LC.png" className='h-40 lg:h-7/10 rounded-xl flex items-center justify-around border '/>
+            <div className='h-8/10 w-full  flex items-center justify-center gap-10  flex-col px-10'>
+                <img src="/LC.png" className=' lg:h-8/10 rounded-xl flex items-center justify-around border '/>
                 <a href='https://leetcode.com/u/vivek-patel-here/' target="_blank"  className='flex w-fit h-fit items-center gap-2'>
                     <p className='text-secondary text-sm'>Check out</p>
                     <p className='text-sm cursor-pointer hover:underline'>My Leetcode Account</p>
