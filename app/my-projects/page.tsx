@@ -31,6 +31,11 @@ function ProjectFrame() {
             imgSrc: "/project3.png",
             Link: "https://memefy-zx5p.onrender.com",
             githublink: "https://github.com/vivek-patel-here/Memefy",
+        },{
+            title :"Collab Canvas",
+            imgSrc:"/project4.png",
+            Link:"https://collab-canvas-lyart.vercel.app/",
+            githublink: "https://github.com/vivek-patel-here/Collab-Canvas"
         }
     ]
 
