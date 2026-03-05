@@ -10,6 +10,12 @@ function Project() {
 
     const projects = [
         {
+            title: "Collab Canvas",
+            imgSrc: "/project4.png",
+            Link: "https://collab-canvas-lyart.vercel.app/",
+            githublink:"https://github.com/vivek-patel-here/Collab-Canvas",
+        },
+        {
             title: "AI-Think Idea Aggregator Website",
             imgSrc: "/aithink.png",
             Link: "https://ai-think-idea-aggregator.vercel.app/",
@@ -19,12 +25,7 @@ function Project() {
             imgSrc: "/lectora.png",
             Link: "https://lectora-ai.onrender.com/",
             githublink:"https://github.com/vivek-patel-here/Lectora-AI",
-        }, {
-            title: "QuickCuisine",
-            imgSrc: "/project.png",
-            Link: "https://quickcuisineclient.onrender.com/home",
-            githublink:"https://github.com/vivek-patel-here/QuickCuisine",
-        }
+        },
     ]
 
 

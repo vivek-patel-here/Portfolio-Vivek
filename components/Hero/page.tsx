@@ -78,7 +78,7 @@ function Hero() {
                 <div className='flex-1 h-full  flex flex-col items-center justify-around'>
                     <div className='w-full md:pl-15 flex items-center  justify-left h-fit gap-3'>
                         <div className='flex w-1/3 flex-col gap-2  '>
-                            <h1 className='text-3xl md:text-5xl  text-dark'>+<CountUp end={600} /></h1>
+                            <h1 className='text-3xl md:text-5xl  text-dark'>+<CountUp end={800} /></h1>
                             <p className='text-secondary text-xs '>LeetCode Problems Solved</p>
                         </div>
 
