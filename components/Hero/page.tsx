@@ -78,13 +78,13 @@ function Hero() {
                 <div className='flex-1 h-full  flex flex-col items-center justify-around'>
                     <div className='w-full md:pl-15 flex items-center  justify-left h-fit gap-3'>
                         <div className='flex w-1/3 flex-col gap-2  '>
-                            <h1 className='text-3xl md:text-5xl  text-dark'>+<CountUp end={800} /></h1>
+                            <h1 className='text-3xl md:text-5xl  text-dark'>+<CountUp end={1000} /></h1>
                             <p className='text-secondary text-xs '>LeetCode Problems Solved</p>
                         </div>
 
                         <div className='flex w-1/3 flex-col gap-2  '>
-                            <h1 className='text-3xl md:text-5xl  text-dark'>+<CountUp end={5} /></h1>
-                            <p className='text-secondary text-xs '>Hackathons participated</p>
+                            <h1 className='text-3xl md:text-5xl  text-dark'>+<CountUp end={1800} /></h1>
+                            <p className='text-secondary text-xs '>contest Rating</p>
                         </div>
                     </div>
                     <div className=' h-4/10 w-full md:pl-5 flex flex-col items-center justify-center' ref={ref3}>
