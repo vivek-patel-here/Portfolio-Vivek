@@ -70,7 +70,7 @@ function Hero() {
                     Software Developer
                 </p>
                 <span className="text-xs text-start text-secondary rotate-270 ">
-                    2024
+                    2026
                 </span>
             </div>
 
