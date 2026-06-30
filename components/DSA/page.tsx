@@ -12,7 +12,7 @@ return (
 
             <h1 className='text-dark text-5xl'>Problem Solving</h1>
             <div className='w-full max-w-7xl flex items-center justify-center gap-10  flex-col px-10'>
-                <img src="/LC.png" className='w-full rounded-xl flex items-center justify-around border '/>
+                <img src="/LC_new.png" className='w-full rounded-xl flex items-center justify-around border '/>
                 <a href='https://leetcode.com/u/vivek-patel-here/' target="_blank"  className='flex w-fit h-fit items-center gap-2'>
                     <p className='text-secondary text-sm'>Check out</p>
                     <p className='text-sm cursor-pointer hover:underline'>My Leetcode Account</p>
